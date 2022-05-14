@@ -1,13 +1,10 @@
 team: Leopards
 
 manager: Nora
-<<<<<<< HEAD
 coach: nicholas
-=======
-coach: Melissa
->>>>>>> conflict
 members:
 - Linda
 - William
 - David
 - olivia
+- Evie
