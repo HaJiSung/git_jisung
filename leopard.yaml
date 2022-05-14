@@ -1,7 +1,11 @@
 team: Leopards
 
 manager: Nora
+<<<<<<< HEAD
 coach: nicholas
+=======
+coach: Melissa
+>>>>>>>  edit panthers
 members:
 - Linda
 - William

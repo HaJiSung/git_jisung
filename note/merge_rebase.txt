@@ -1,0 +1,10 @@
+git branch 합치기 
+
+rebase /merge
+
+merge : 두 작업물을 바로 합쳐버리기 
+git merge B
+
+rebase : 바로 합치는게 아닌 추가로 덧 붙이는 형태 
+ex) B 브랜치의 내용을 A브랜치로 rebase 하려면 B브랜치로 이동 git rebase A -> git switch A -> git merge B
+merge를 한번 더해줘야함 머지..
